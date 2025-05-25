@@ -1,0 +1,271 @@
+{
+  "collections": {
+    "products": [
+      {
+        "nome": "Chocolate Tradicional",
+        "descricao": "Delicioso cupcake de chocolate com cobertura cremosa e raspas de chocolate ao leite. Um clássico que nunca sai de moda.",
+        "preco": 8.50,
+        "categoria": "Clássicos",
+        "sabor": "Chocolate",
+        "imagem": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Baunilha com Confeitos",
+        "descricao": "Cupcake tradicional de baunilha com cobertura leve e confeitos coloridos. Perfeito para festas infantis.",
+        "preco": 7.50,
+        "categoria": "Clássicos",
+        "sabor": "Baunilha",
+        "imagem": "https://images.unsplash.com/photo-1615832494873-b0c52d519653?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Morango Fresco",
+        "descricao": "Cupcake com massa de baunilha, recheio de geleia de morango e cobertura de chantilly com morangos frescos.",
+        "preco": 9.00,
+        "categoria": "Clássicos",
+        "sabor": "Morango",
+        "imagem": "https://images.unsplash.com/photo-1612203985729-70726954388e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Limão Siciliano",
+        "descricao": "Cupcake de massa de limão siciliano, levemente ácido e com cobertura de merengue italiano.",
+        "preco": 8.00,
+        "categoria": "Clássicos",
+        "sabor": "Limão",
+        "imagem": "https://images.unsplash.com/photo-1623246123320-0d6636755796?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Coco Tropical",
+        "descricao": "Cupcake com massa leve de coco, recheio de doce de leite e cobertura de chantilly com coco ralado.",
+        "preco": 8.50,
+        "categoria": "Clássicos",
+        "sabor": "Coco",
+        "imagem": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=675&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Cenoura com Chocolate",
+        "descricao": "Tradicional cupcake de cenoura com cobertura de chocolate meio amargo. Combinação perfeita de sabores.",
+        "preco": 7.50,
+        "categoria": "Clássicos",
+        "sabor": "Cenoura",
+        "imagem": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Banana Caramelizada",
+        "descricao": "Cupcake de massa macia de banana com pedaços caramelizados e cobertura leve de canela.",
+        "preco": 8.00,
+        "categoria": "Clássicos",
+        "sabor": "Banana",
+        "imagem": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=690&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Chocolate Branco",
+        "descricao": "Cupcake delicado de chocolate branco com cobertura cremosa e raspas de chocolate belga.",
+        "preco": 8.00,
+        "categoria": "Clássicos",
+        "sabor": "Chocolate",
+        "imagem": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=690&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Caramelo Salgado",
+        "descricao": "Cupcake com massa de baunilha, recheado com caramelo salgado e cobertura de buttercream de caramelo.",
+        "preco": 10.00,
+        "categoria": "Premium",
+        "sabor": "Caramelo",
+        "imagem": "https://images.unsplash.com/photo-1519869325930-281384150729?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Chocolate Trufado",
+        "descricao": "Cupcake de chocolate intenso, recheado com ganache de chocolate belga e decorado com trufa.",
+        "preco": 12.50,
+        "categoria": "Premium",
+        "sabor": "Chocolate",
+        "imagem": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1080&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Red Velvet",
+        "descricao": "Tradicional cupcake americano Red Velvet com sua cor vermelha característica e cobertura de cream cheese.",
+        "preco": 11.00,
+        "categoria": "Premium",
+        "sabor": "Chocolate",
+        "imagem": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Frutas Vermelhas",
+        "descricao": "Cupcake com massa leve, recheado com compota de frutas vermelhas e cobertura de cream cheese com frutas frescas.",
+        "preco": 13.00,
+        "categoria": "Premium",
+        "sabor": "Frutas Vermelhas",
+        "imagem": "https://images.unsplash.com/photo-1604413191066-4dd20bedf486?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Pistache Francês",
+        "descricao": "Cupcake de massa de pistache, com recheio cremoso e cobertura de creme de pistache com amêndoas laminadas.",
+        "preco": 14.50,
+        "categoria": "Premium",
+        "sabor": "Baunilha",
+        "imagem": "https://images.unsplash.com/photo-1609355441105-74d0a1573539?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Limão com Blueberry",
+        "descricao": "Cupcake de limão com base de biscoito, recheio de geléia de blueberry e cobertura de cream cheese com blueberries frescos.",
+        "preco": 12.00,
+        "categoria": "Premium",
+        "sabor": "Limão",
+        "imagem": "https://images.unsplash.com/photo-1530648672449-81f6c723e2f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Maracujá com Chocolate Branco",
+        "descricao": "Sofisticado cupcake de maracujá com recheio de geleia caseira e cobertura de chocolate branco com decoração de frutas cristalizadas.",
+        "preco": 13.50,
+        "categoria": "Premium",
+        "sabor": "Maracujá",
+        "imagem": "https://images.unsplash.com/photo-1559620192-032c4bc4674e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Tiramisu Gourmet",
+        "descricao": "Exclusivo cupcake inspirado na tradicional sobremesa italiana, com café, mascarpone e cacau em pó. Sabor inesquecível.",
+        "preco": 15.00,
+        "categoria": "Premium",
+        "sabor": "Café",
+        "imagem": "https://images.unsplash.com/photo-1550617931-e17a7b70dce2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Amêndoas e Caramelo",
+        "descricao": "Cupcake premium com massa rica em amêndoas, recheado com caramelo artesanal e cobertura de chocolate amargo.",
+        "preco": 14.00,
+        "categoria": "Premium",
+        "sabor": "Caramelo",
+        "imagem": "https://images.unsplash.com/photo-1550617931-e17a7b70dce2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=740&q=80",
+        "disponivel": true
+      },
+      {
+        "nome": "Framboesa com Chocolate",
+        "descricao": "Sofisticado cupcake de chocolate meio amargo com geleia de framboesa e cobertura de ganache decorada com frutas frescas.",
+        "preco": 15.00,
+        "categoria": "Premium",
+        "sabor": "Frutas Vermelhas",
+        "imagem": "https://images.unsplash.com/photo-1604413191066-4dd20bedf486?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=730&q=80",
+        "disponivel": true
+      }
+    ],
+    "users": [
+      {
+        "uid": "sample-user-1",
+        "nome": "Maria Silva",
+        "email": "maria@example.com",
+        "telefone": "(11) 98765-4321",
+        "endereco": "Rua das Flores, 123 - Jardim Europa, São Paulo - SP, 01456-000",
+        "fotoPerfil": null,
+        "dataCriacao": "TIMESTAMP"
+      },
+      {
+        "uid": "sample-user-2",
+        "nome": "João Santos",
+        "email": "joao@example.com",
+        "telefone": "(11) 91234-5678",
+        "endereco": "Av. Paulista, 1000 - Bela Vista, São Paulo - SP, 01310-100",
+        "fotoPerfil": null,
+        "dataCriacao": "TIMESTAMP"
+      }
+    ],
+    "orders": [
+      {
+        "userId": "sample-user-1",
+        "itens": [
+          {
+            "produtoId": "1",
+            "nome": "Chocolate Tradicional",
+            "preco": 8.50,
+            "quantidade": 2,
+            "subtotal": 17.00,
+            "imagem": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80"
+          },
+          {
+            "produtoId": "3",
+            "nome": "Morango Fresco",
+            "preco": 9.00,
+            "quantidade": 1,
+            "subtotal": 9.00,
+            "imagem": "https://images.unsplash.com/photo-1612203985729-70726954388e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+          }
+        ],
+        "total": 26.00,
+        "status": "entregue",
+        "dataHora": "TIMESTAMP",
+        "formaPagamento": "cartão",
+        "endereco": "Rua das Flores, 123 - Jardim Europa, São Paulo - SP, 01456-000",
+        "avaliacao": 4.5
+      },
+      {
+        "userId": "sample-user-1",
+        "itens": [
+          {
+            "produtoId": "7",
+            "nome": "Red Velvet",
+            "preco": 11.00,
+            "quantidade": 2,
+            "subtotal": 22.00,
+            "imagem": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+          }
+        ],
+        "total": 22.00,
+        "status": "entregue",
+        "dataHora": "TIMESTAMP",
+        "formaPagamento": "pix",
+        "endereco": "Rua das Flores, 123 - Jardim Europa, São Paulo - SP, 01456-000",
+        "avaliacao": null
+      },
+      {
+        "userId": "sample-user-2",
+        "itens": [
+          {
+            "produtoId": "5",
+            "nome": "Caramelo Salgado",
+            "preco": 10.00,
+            "quantidade": 1,
+            "subtotal": 10.00,
+            "imagem": "https://images.unsplash.com/photo-1519869325930-281384150729?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+          },
+          {
+            "produtoId": "8",
+            "nome": "Frutas Vermelhas",
+            "preco": 13.00,
+            "quantidade": 1,
+            "subtotal": 13.00,
+            "imagem": "https://images.unsplash.com/photo-1604413191066-4dd20bedf486?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80"
+          },
+          {
+            "produtoId": "4",
+            "nome": "Limão Siciliano",
+            "preco": 8.00,
+            "quantidade": 2,
+            "subtotal": 16.00,
+            "imagem": "https://images.unsplash.com/photo-1623246123320-0d6636755796?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+          }
+        ],
+        "total": 39.00,
+        "status": "entregue",
+        "dataHora": "TIMESTAMP",
+        "formaPagamento": "dinheiro",
+        "endereco": "Av. Paulista, 1000 - Bela Vista, São Paulo - SP, 01310-100",
+        "avaliacao": null
+      }
+    ]
+  }
+}
